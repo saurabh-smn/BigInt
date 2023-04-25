@@ -21,5 +21,6 @@ Z != B if B.size() != X.size().
 
 I'll try to improve this limitation in future, but I think for now it is in good to condition.
 
+# Contact
 For any queries or suggestions or bugs, please feel to drop me an email:
 saurabh.smn@gmail.com
