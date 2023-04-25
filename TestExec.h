@@ -1,3 +1,10 @@
+// TestExec.h
+// License: Apache 2.0
+// Copyright: 2023 Saurabh Suman <saurabh.smn@gmail.com>
+// Info: You are free to use and modify the content as per
+//       condition of Apache 2.0 licensing terms.
+//       See LICENSE file for details
+
 #include "../BigInt.h"
 
 namespace SmnTest {
